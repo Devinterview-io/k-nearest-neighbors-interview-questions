@@ -1,4 +1,4 @@
-# 45 Must-Know K-Nearest Neighbors Interview Questions in 2025
+# 45 Must-Know K-Nearest Neighbors Interview Questions in 2026
 
 <div>
 <p align="center">
